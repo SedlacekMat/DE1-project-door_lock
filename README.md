@@ -7,7 +7,7 @@ Sedláček Marek
 Sedláček Matyáš    
 Sladkowski David     
 
-[Github project folder]( http://github.com/xxx)
+[Github project folder]( https://github.com/SedlacekMat/DE1-project-door_lock)
 
 ### Project objectives
 
